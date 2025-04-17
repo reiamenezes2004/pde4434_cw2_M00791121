@@ -36,11 +36,11 @@ A Python-based GUI application for detecting UNO cards from uploaded images or l
 
 ---
 ### Folder Structure
-pde4434_cw2_M00791121/
-├── unocardimages/           # Template images dataset of UNO cards
-├── captured/                # Auto-generated folder to save webcam captures
-├── coursework2.ipynb        # Main python script
-└── README.md                # GitHub Documentation file
+- pde4434_cw2_M00791121/       # Main folder
+    - unocardimages/           # Template images dataset of UNO cards
+    - captured/                # Auto-generated folder to save webcam captures
+    - coursework2.ipynb        # Main Python script
+    - README.md                # GitHub Documentation file
 
 ---
 
