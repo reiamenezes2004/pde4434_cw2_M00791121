@@ -18,7 +18,7 @@ A Python-based GUI application for detecting UNO cards from uploaded images or l
 
 1. **Clone the Repository** using the following command in your terminal:
     - git clone https://github.com/reiamenezes2004/pde4434_cw2_M00791121.git
-2. Run all the cells from the python notebook named 'coursework2.ipynb'
+2. Run all the cells from the Python notebook named 'coursework2.ipynb'
 
 ---
 
@@ -31,7 +31,7 @@ A Python-based GUI application for detecting UNO cards from uploaded images or l
 ---
 
 #### Future Improvement
-- Add OCR (Tesseract): Integrate text recognition for detecting numbers and letters dynamically.
+- Add OCR (Tesseract): Integrate text recognition to detect numbers and letters dynamically.
 - Use Deep Learning: Train a CNN on labeled UNO card images for more reliable and scalable classification.
 
 ---
@@ -44,6 +44,9 @@ A Python-based GUI application for detecting UNO cards from uploaded images or l
 
 ---
 
+### Output Screenshots
+
+---
 ### Links
 
 1) GitHub Link:
