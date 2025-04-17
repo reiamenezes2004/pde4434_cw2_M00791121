@@ -17,7 +17,7 @@ A Python-based GUI application for detecting UNO cards from uploaded images or l
 #### How to Run the Code
 
 1. **Clone the Repository** using the following command in your terminal:
-    git clone
+    - git clone https://github.com/reiamenezes2004/pde4434_cw2_M00791121.git
 2. Run all the cells from the python notebook named 'coursework2.ipynb'
 
 ---
