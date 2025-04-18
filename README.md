@@ -48,12 +48,12 @@ A Python-based GUI application for detecting UNO cards from uploaded images or l
 
 One screenshot is taken for every color card, some from the internal camera and some from the external webcam.
 
+Red:
+![ss_laptop](https://github.com/user-attachments/assets/79f0cd72-90c0-4590-97d6-a67ce291dc9f)
+
 
 ---
 ### Links
-
-![ss_laptop](https://github.com/user-attachments/assets/79f0cd72-90c0-4590-97d6-a67ce291dc9f)
-
 
 1) GitHub Link:
 https://github.com/reiamenezes2004/pde4434_cw2_M00791121.git
