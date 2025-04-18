@@ -58,18 +58,19 @@ Red 0
 
 Blue Skip
 
----![ss_laptop3](https://github.com/user-attachments/assets/00de2607-0b0d-4542-9545-b90c90705c3e)
+![ss_laptop3](https://github.com/user-attachments/assets/00de2607-0b0d-4542-9545-b90c90705c3e)
 
 Black Color Change
 
 ![ss_webcam](https://github.com/user-attachments/assets/d8bef9df-e41b-431a-8bd1-93ac8e8cbe0b)
 
 Green 8
-![ss_webcam3](https://github.com/user-attachments/assets/9f4638b5-ad15-4927-ba86-7a2ed305c8c6)
+
+![ss_webcam2](https://github.com/user-attachments/assets/056796c2-8ac5-4072-8e61-bb8a4316ab87)
 
 Yellow 0
 
-![ss_webcam2](https://github.com/user-attachments/assets/056796c2-8ac5-4072-8e61-bb8a4316ab87)
+![ss_webcam3](https://github.com/user-attachments/assets/9f4638b5-ad15-4927-ba86-7a2ed305c8c6)
 
 ---
 ### Links
